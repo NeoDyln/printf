@@ -5,6 +5,7 @@
  * File - main.h
  * Desc: This file contain the prototypes of all 
  * the functions in this project.
+ * It also include all other hearder files used in the functions.
  */
 
 #include <stdio.h>

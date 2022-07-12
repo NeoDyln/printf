@@ -2,8 +2,8 @@
 
 /**
  * convert - converts number and base into string
- * @num: input number
- * @base: input base
+ * @num: The input number
+ * @base: The input base
  * @lowercase: flag if hexa values need to be lowercase
  * Return: result string
  */
